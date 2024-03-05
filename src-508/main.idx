@@ -21,371 +21,165 @@
 
 \indexentry{Statistics (incident)|book{1}}{13}
 
-\indexentry{1A@\textbf{Incident Response Steps}|book{1}}{23-24}
+\indexentry{1A@\textbf{Incident Response Steps}|book{1}}{20-21}
 \indexentry{Incident Response|book{1}}{23-24}
-\indexentry{1A@\textbf{Incident Response Steps}!1. Preparation|book{1}}{24}
-\indexentry{1A@\textbf{Incident Response Steps}!2. Identification|book{1}}{24}
-\indexentry{1A@\textbf{Incident Response Steps}!3. Containment|book{1}}{24}
-\indexentry{1A@\textbf{Incident Response Steps}!4. Eradication|book{1}}{24}
-\indexentry{1A@\textbf{Incident Response Steps}!5. Recovery|book{1}}{24}
-\indexentry{1A@\textbf{Incident Response Steps}!6. Lessons Learned|book{1}}{24}
+\indexentry{1A@\textbf{Incident Response Steps}!1. Preparation|book{1}}{20}
+\indexentry{1A@\textbf{Incident Response Steps}!2. Identification|book{1}}{20}
+\indexentry{1A@\textbf{Incident Response Steps}!3. Containment & Intelligence Development|book{1}}{20}
+\indexentry{1A@\textbf{Incident Response Steps}!4. Eradication and Remediation|book{1}}{21}
+\indexentry{1A@\textbf{Incident Response Steps}!5. Recovery|book{1}}{21}
+\indexentry{1A@\textbf{Incident Response Steps}!6. Lessons Learned (follow up)|book{1}}{21}
 
-\indexentry{Eradication Without Identification|book{1}}{25}
+\indexentry{Eradication Without Proper Scoping/Containment|book{1}}{22}
 
-\indexentry{Containment|book{1}}{27}
-\indexentry{Intelligence Development|book{1}}{27}
+\indexentry{Containment|book{1}}{24}
+\indexentry{Intelligence Development|book{1}}{24}
 
-\indexentry{Active Defense|book{1}}{28}
+\indexentry{Incident Response Detection & Intelligence Loop|book{1}}{26}
 
-\indexentry{Hunting|book{1}}{29}
-\indexentry{Reactive Response|book{1}}{29}
-\indexentry{Proactive Response|book{1}}{29}
-
-\indexentry{Hunting|book{1}}{31-34}
-\indexentry{Reactive Response|book{1}}{31-34}
-\indexentry{Identification|book{1}}{31-34}
-
-\indexentry{Digital Forensics \& IR|book{1}}{32}
-\indexentry{Incident Response!Team|book{1}}{32}
-
-\indexentry{Cyber Threat Intelligence|book{1}}{33}
-
-\indexentry{Remediation|book{1}}{35}
-\indexentry{Remediation!Requirements|book{1}}{36}
-\indexentry{Remediation!Steps|book{1}}{37}
-
-\indexentry{Incident Response!Process|book{1}}{38}
-\indexentry{Intelligence-Driven Incident Response|book{1}}{39}
-\indexentry{Incident Response!Intelligence-Driven|book{1}}{39}
-
-\indexentry{Initial Compromise|book{1}}{39}
-\indexentry{Compromise|book{1}}{39}
-\indexentry{Establish Foothold|book{1}}{39}
-\indexentry{Maintain presence|book{1}}{39}
-\indexentry{Lateral Movement|book{1}}{40}
-\indexentry{Data Collection|book{1}}{40}
-\indexentry{Data Exfiltration|book{1}}{40}
-
-\indexentry{Kill Chain|book{1}}{41}
-
-\indexentry{Indicator of Compromise!Atomic|book{1}}{41}
-\indexentry{Indicator of Compromise!Computed|book{1}}{42}
-\indexentry{Indicator of Compromise!Behavioral|book{1}}{42}
-
-\indexentry{Kill Chain|book{1}}{43}
-\indexentry{Kill Chain!Reconnaissance|book{1}}{43}
-\indexentry{Kill Chain!Delivery|book{1}}{43}
-\indexentry{Kill Chain!Exploitation|book{1}}{43}
-
-\indexentry{Kill Chain!Persistence|book{1}}{44}
-\indexentry{Kill Chain!Actions on Objectives|book{1}}{44}
-
-\indexentry{ATT\&CK|book{1}}{47}
-
-\indexentry{ATT\&CK!Persistence|book{1}}{50}
-\indexentry{ATT\&CK!Privilege Escalation|book{1}}{50}
-\indexentry{ATT\&CK!Defense Evasion|book{1}}{50}
-\indexentry{ATT\&CK!Credential Access|book{1}}{50}
-\indexentry{ATT\&CK!Discovery|book{1}}{50}
-\indexentry{ATT\&CK!Lateral Movement|book{1}}{50}
-\indexentry{ATT\&CK!Execution|book{1}}{50}
-
-\indexentry{ATT\&CK!Collection|book{1}}{51}
-\indexentry{ATT\&CK!Exfiltration|book{1}}{51}
-\indexentry{ATT\&CK!Command and Control|book{1}}{51}
-
-\indexentry{ATT\&CK|book{1}}{52}
-
-\indexentry{Cyber Threat Intelligence|book{1}}{53}
-\indexentry{Vulnerability|book{1}}{53}
-\indexentry{Impact|book{1}}{53}
-\indexentry{Threat|book{1}}{53}
-
-\indexentry{Intent|book{1}}{54}
-\indexentry{Opportunity|book{1}}{54}
-\indexentry{Capability|book{1}}{54}
-
-\indexentry{Indicator of Compromise|book{1}}{56}
-\indexentry{Indicator of Compromise!Language|book{1}}{56}
-\indexentry{STIX|book{1}}{56}
-
-\indexentry{CRITS|book{1}}{57}
-\indexentry{Yara|book{1}}{57}
-\indexentry{OpenIOC|book{1}}{57}
-\indexentry{RedLine|book{1}}{57}
-\indexentry{Indicator of Compromise!IOC Editor|book{1}}{57}
-
-\indexentry{Malware!Paradox|book{1}}{61}
-
-\indexentry{Compromise|book{1}}{62}
-\indexentry{Hunting!Steps (color)|book{1}}{62}
-\indexentry{Malware!Dormant|book{1}}{62}
-
-\indexentry{Hunting!Automated to Manual|book{1}}{64}
-
-\indexentry{Compromise|book{1}}{65}
-
-\indexentry{Hiding in Plain Sight|book{1}}{66}
-\indexentry{Malware!Names|book{1}}{66}
-\indexentry{Malware!Locations|book{1}}{66}
-
-\indexentry{Malware!Evasion techniques|book{1}}{67}
-
-\indexentry{Evasion|book{1}}{67}
-\indexentry{Service Hijacking|book{1}}{67}
-\indexentry{Service Replacement|book{1}}{67}
-\indexentry{Process!Injection|book{1}}{67}
-\indexentry{Filename!Hijacking|book{1}}{67}
-\indexentry{Alternate Data Stream|book{1}}{67}
-\indexentry{WebShell|book{1}}{67}
-\indexentry{Beacons|book{1}}{67}
-\indexentry{Firmware|book{1}}{67}
-\indexentry{DLL Injection|book{1}}{67}
-\indexentry{Anti-Virus!Bypass|book{1}}{67}
-\indexentry{Defense Manipulation|book{1}}{67}
-\indexentry{Frequent Compilation|book{1}}{67}
-\indexentry{Binary Padding|book{1}}{67}
-\indexentry{Packing|book{1}}{67}
-\indexentry{Armoring|book{1}}{67}
-\indexentry{Malware!Dormant|book{1}}{67}
-\indexentry{Code Signing|book{1}}{67}
-\indexentry{Anti-Forensics|book{1}}{67}
-\indexentry{Timestomp|book{1}}{67}
-\indexentry{Rootkit|book{1}}{67}
-\indexentry{Zero Configuration|book{1}}{67}
-\indexentry{AutoRun|book{1}}{67}
-
-\indexentry{Trusted Code|book{1}}{69}
-\indexentry{Code Signing|book{1}}{69}
-\indexentry{Certification Authority|book{1}}{69}
-\indexentry{Dun and Bradstreet Rating|book{1}}{69}
-
-\indexentry{Code Signing!Malware|book{1}}{71}
-\indexentry{Malware!Code Signing|book{1}}{71}
-
-\indexentry{What is Evil?|book{1}}{73}
-\indexentry{What is Normal?|book{1}}{73}
-\indexentry{Process!Rogue|book{1}}{73}
-
-\indexentry{Code Injection|book{1}}{74}
-\indexentry{Rootkit|book{1}}{74}
-\indexentry{Services!Unknown|book{1}}{74}
-\indexentry{Artifacts!OS Unusual|book{1}}{74}
-
-\indexentry{sc.exe@\texttt{sc.exe}|book{1}}{74}
-\indexentry{queryex@\texttt{queryex}|book{1}}{74}
-\indexentry{qc@\texttt{qc}|book{1}}{74}
-\indexentry{qprivs@\texttt{qprivs}|book{1}}{74}
-\indexentry{qtriggerinfo@\texttt{qtriggerinfo}|book{1}}{74}
-
-\indexentry{cmd.exe@\texttt{cmd.exe}|book{1}}{75}
-\indexentry{rar.exe@\texttt{rar.exe}|book{1}}{75}
-\indexentry{at.exe@\texttt{at.exe}|book{1}}{75}
-\indexentry{schtasks.exe@\texttt{schtasks.exe}|book{1}}{75}
-\indexentry{PsExec@\texttt{PsExec}|book{1}}{75}
-\indexentry{PsLoggedOn@\texttt{PsLoggedOn}|book{1}}{75}
-\indexentry{ProcDump@\texttt{ProcDump}|book{1}}{75}
-\indexentry{wmic.exe@\texttt{wmic.exe}|book{1}}{75}
-\indexentry{powershell.exe@\texttt{powershell.exe}|book{1}}{75}
-\indexentry{winrm.vbs@\texttt{winrm.vbs}|book{1}}{75}
-\indexentry{net.exe@\texttt{net.exe}|book{1}}{75}
-\indexentry{sc.exe@\texttt{sc.exe}|book{1}}{75}
-\indexentry{reg.exe@\texttt{reg.exe}|book{1}}{75}
-\indexentry{MountPoints2@\texttt{MountPoints2}|book{1}}{75}
-
-\indexentry{Process!Anomaly \win|book{1}}{76}
-\indexentry{3A@\textbf{Windows Process}!System@\texttt{System}|book{1}}{76}
-\indexentry{3A@\textbf{Windows Process}!svchost.exe@\texttt{svchost.exe}|book{1}}{76}
-\indexentry{3A@\textbf{Windows Process}!ntoskrnl.exe@\texttt{ntoskrnl.exe}|book{1}}{80}
-
-\indexentry{2A@\textbf{Service Name}!DcomLaunch@\texttt{DcomLaunch}|book{1}}{76}
-\indexentry{2A@\textbf{Service Name}!RPCSS@\texttt{RPCSS}|book{1}}{76}
-\indexentry{2A@\textbf{Service Name}!LocalServiceNetworkRestricted@\texttt{LocalServiceNetworkRestricted}|book{1}}{76}
-\indexentry{2A@\textbf{Service Name}!LocalServiceNoNetwork@\texttt{LocalServiceNoNetwork}|book{1}}{76}
-\indexentry{2A@\textbf{Service Name}!LocalServiceAndNoImpersonation@\texttt{LocalServiceAndNoImpersonation}|book{1}}{76}
-\indexentry{2A@\textbf{Service Name}!netsvcs@\texttt{netsvcs}|book{1}}{76}
-\indexentry{2A@\textbf{Service Name}!NetworkService@\texttt{NetworkService}|book{1}}{76}
-
-\indexentry{3A@\textbf{Windows Process}!smss.exe@\texttt{smss.exe}|book{1}}{77}
-\indexentry{3A@\textbf{Windows Process}!csrss.exe@\texttt{csrss.exe}|book{1}}{77}
-\indexentry{3A@\textbf{Windows Process}!services.exe@\texttt{services.exe}|book{1}}{77}
-\indexentry{3A@\textbf{Windows Process}!lsaiso.exe@\texttt{lsaiso.exe}|book{1}}{78}
-\indexentry{3A@\textbf{Windows Process}!explorer.exe@\texttt{explorer.exe}|book{1}}{78}
-\indexentry{3A@\textbf{Windows Process}!wininit.exe@\texttt{wininit.exe}|book{1}}{78}
-\indexentry{3A@\textbf{Windows Process}!winlogon.exe@\texttt{winlogon.exe}|book{1}}{79}
-\indexentry{3A@\textbf{Windows Process}!userinit.exe@\texttt{userinit.exe}|book{1}}{79}
-\indexentry{3A@\textbf{Windows Process}!LSASS.exe@\texttt{LSASS.exe}|book{1}}{79}
-\indexentry{3A@\textbf{Windows Process}!taskhostw.exe@\texttt{taskhostw.exe}|book{1}}{79}
-\indexentry{3A@\textbf{Windows Process}!wininit.exe@\texttt{wininit.exe}|book{1}}{80}
-\indexentry{3A@\textbf{Windows Process}!winlogon.exe@\texttt{winlogon.exe}|book{1}}{80}
-\indexentry{3A@\textbf{Windows Process}!RuntimeBroker.exe@\texttt{RuntimeBroker.exe}|book{1}}{80}
-
-\indexentry{Malware!Identification|book{1}}{81}
-\indexentry{Behavior Detection Anomaly|book{1}}{81}
-
-\indexentry{densityscout@\texttt{densityscout}|book{1}}{82}
-\indexentry{bytehist@\texttt{bytehist}|book{1}}{82}
-\indexentry{sigcheck@\texttt{sigcheck}|book{1}}{82}
-\indexentry{pescan@\texttt{pescan}|book{1}}{82}
-
-\indexentry{densityscout@\texttt{densityscout}|book{1}}{84}
-
-\indexentry{pescan@\texttt{pescan}|book{1}}{87}
-
-\indexentry{sigcheck@\texttt{sigcheck}|book{1}}{89}
-
-\indexentry{Malware Persistence|book{1}}{96}
-
-\indexentry{AutoStart|book{1}}{97}
-\indexentry{AutoRun|book{1}}{97}
-\indexentry{Malware Persistence!AutoStart Locations|book{1}}{97}
-\indexentry{RegRipper|book{1}}{98}
-
-\indexentry{Malware Persistence!Service Creation/Replacement|book{1}}{99}
-\indexentry{RIP Listener Service (IPRIP)|book{1}}{99}
-\indexentry{IPRIP \goto RIP Listener Service|comment}{0}
-\indexentry{Windows Service|book{1}}{99}
-
-\indexentry{Malware Persistence!Service Failure Recovery|book{1}}{100}
-\indexentry{GlassRAT|book{1}}{100}
-\indexentry{RasAuto|book{1}}{100}
-\indexentry{AutoRunsc.exe@\texttt{AutoRunsc.exe}|book{1}}{100}
-\indexentry{sc.exe@\texttt{sc.exe}|book{1}}{100}
-\indexentry{Get-SvcFail.ps1@\texttt{Get-SvcFail.ps1}|book{1}}{100}
-
-\indexentry{Malware Persistence!Scheduled Tasks|book{1}}{101}
-\indexentry{at.exe@\texttt{at.exe}|book{1}}{101}
-\indexentry{schtasks.exe@\texttt{schtasks.exe}|book{1}}{101}
-\indexentry{AutoRunsc.exe@\texttt{AutoRunsc.exe}|book{1}}{101}
-
-\indexentry{Malware Persistence!DLL Hijacking|book{1}}{102}
-\indexentry{DLL Hijacking!DLL Search Order Hijacking|book{1}}{102}
-\indexentry{DLL Hijacking!Phantom DLL Hijacking|book{1}}{102}
-\indexentry{DLL Hijacking!DLL Side-Loading|book{1}}{102}
-\indexentry{fxsst.dll@\texttt{fxsst.dll}|book{1}}{103}
-\indexentry{SxS \goto DLL Hijacking/DLL Side-Loading|comment}{0}
-\indexentry{PlugX|book{1}}{103}
-\indexentry{NetTraveler|book{1}}{103}
-\indexentry{Sakula|book{1}}{103}
-\indexentry{Poison Ivy|book{1}}{103}
-
-\indexentry{Malware Persistence!WMI Event Consumers|book{1}}{104}
-\indexentry{WMI!Event Consumers|book{1}}{104}
-\indexentry{mofcomp.exe@\texttt{mofcomp.exe}|book{1}}{104}
-\indexentry{Get-WmiObject@\texttt{Get-WmiObject}|book{1}}{104}
-\indexentry{Set-WmiInstance@\texttt{Set-WmiInstance}|book{1}}{104}
-\indexentry{CreateInstance@\texttt{CreateInstance}|book{1}}{104}
-\indexentry{AutoRunsc.exe@\texttt{AutoRunsc.exe}|book{1}}{104}
-\indexentry{Kansa PowerShell Framework|book{1}}{104}
-
-\indexentry{AutoRunsc.exe@\texttt{AutoRunsc.exe}|book{1}}{105}
-
-\indexentry{Malware Persistence!Local Group Policy|book{1}}{96}
-\indexentry{Malware Persistence!MS Office Add-in|book{1}}{96}
-\indexentry{Malware Persistence!BIOS Flashing|book{1}}{96}
-
-\indexentry{Scripting|book{1}}{112}
-\indexentry{Scripting!Bash|book{1}}{112}
-\indexentry{Scripting!WMI|book{1}}{112}
-\indexentry{Scripting!PowerShell|book{1}}{112}
-\indexentry{WMI|book{1}}{112}
-
-\indexentry{wmic.exe@\texttt{wmic.exe}|book{1}}{113}
-
-\indexentry{PowerShell|book{1}}{114}
-
-\indexentry{PowerShell!Basics|book{1}}{115}
-\indexentry{Get-Process@\texttt{Get-Process}|book{1}}{115}
-\indexentry{Get-Service@\texttt{Get-Service}|book{1}}{115}
-\indexentry{Get-Alias@\texttt{Get-Alias}|book{1}}{115}
-\indexentry{netstat.exe@\texttt{netstat.exe}|book{1}}{115}
-\indexentry{Get-ChildItem@\texttt{Get-ChildItem}|book{1}}{115}
-\indexentry{Out-GridView@\texttt{Out-GridView}|book{1}}{115}
-\indexentry{Select-String@\texttt{Select-String}|book{1}}{115}
-\indexentry{Format-Wide@\texttt{Format-Wide}|book{1}}{115}
-\indexentry{New-PSDrive@\texttt{New-PSDrive}|book{1}}{115}
-
-\indexentry{PowerShell!Remoting|book{1}}{117}
-\indexentry{WSMAN|book{1}}{117}
-\indexentry{winrm.vbs@\texttt{winrm.vbs}|book{1}}{117}
-\indexentry{Enter-PSSession@\texttt{Enter-PSSession}|book{1}}{117}
-\indexentry{Invoke-Command@\texttt{Invoke-Command}|book{1}}{117}
-
-\indexentry{PowerShell!Authentication|book{1}}{119}
-\indexentry{CredSSP|book{1}}{119}
-\indexentry{Enter-PSSession@\texttt{Enter-PSSession}|book{1}}{119}
-\indexentry{Mimikatz|book{1}}{119}
-\indexentry{Incognito|book{1}}{119}
-\indexentry{Kerberos|book{1}}{119}
-
-\indexentry{Kansa|book{1}}{120-129}
-\indexentry{Kansa!Configuration|book{1}}{124}
-\indexentry{Order of Volatility|book{1}}{124}
-\indexentry{Kansa!3\textsuperscript{rd} party tools|book{1}}{126}
-
-\indexentry{Kansa!Get-AutoRunsc.ps1@\texttt{Get-AutoRunsc.ps1}|book{1}}{126}
-\indexentry{Kansa!Get-CertStore.ps1@\texttt{Get-CertStore.ps1}|book{1}}{126}
-\indexentry{Kansa!Get-FlsBodyfile.ps1@\texttt{Get-FlsBodyfile.ps1}|book{1}}{126}
-\indexentry{Kansa!Get-Handle.ps1@\texttt{Get-Handle.ps1}|book{1}}{126}
-\indexentry{Kansa!Get-ProcDump.ps1@\texttt{Get-ProcDump.ps1}|book{1}}{126}
-\indexentry{Kansa!Get-RekalPslist.ps1@\texttt{Get-RekalPslist.ps1}|book{1}}{126}
-
-\indexentry{Stacking|book{1}}{127}
-\indexentry{Least frequency of occurence analysis|book{1}}{127}
-\indexentry{Kansa!Get-LogparserStack.ps1@\texttt{Get-LogparserStack.ps1}|book{1}}{127}
-
-\indexentry{Rootkit|book{1}}{130}
-\indexentry{Rekall|book{1}}{130}
-\indexentry{winpmem@\texttt{winpmem} Driver|book{1}}{130}
-
-\indexentry{WMI|book{1}}{135}
-\indexentry{Web-Based Entreprise Managment (WBEM)|book{1}}{135}
-\indexentry{Common Information Model (CIM)|book{1}}{135}
-\indexentry{WBEM \goto Web-Based Entreprise Managment|comment}{0}
-\indexentry{CIM \goto Common Information Model|comment}{0}
-
-\indexentry{WMI!Attacks|book{1}}{136}
-\indexentry{4A@\textbf{wmic}!process@\texttt{process}|book{1}}{137}
-\indexentry{4A@\textbf{wmic}!useraccount@\texttt{useraccount}|book{1}}{137}
-\indexentry{4A@\textbf{wmic}!group@\texttt{group}|book{1}}{137}
-\indexentry{4A@\textbf{wmic}!netuse@\texttt{netuse}|book{1}}{137}
-\indexentry{4A@\textbf{wmic}!qfe@\texttt{qfe}|book{1}}{137}
-\indexentry{4A@\textbf{wmic}!startup@\texttt{startup}|book{1}}{137}
-
-\indexentry{WMI!Privilege Escalation|book{1}}{138}
-
-\indexentry{WMI!Lateral Movement|book{1}}{139}
-\indexentry{WannaCry|book{1}}{139}
-\indexentry{NotPetya|book{1}}{139}
-\indexentry{BadRabbit|book{1}}{139}
-
-\indexentry{WMI!Event Consumer Backdoor|book{1}}{140}
-\indexentry{MOF|book{1}}{141}
-\indexentry{StuxNet|book{1}}{141}
-\indexentry{Get-WmiObject@\texttt{Get-WmiObject}|book{1}}{140}
-
-\indexentry{WMI!Investigation|book{1}}{142}
-\indexentry{WMI!PowerShell|book{1}}{144}
-\indexentry{WMI!Database|book{1}}{146}
-
-\indexentry{WMI!PyWMIPersistenceFinder.py|book{1}}{147}
-
-\indexentry{WMI!Consumers|book{1}}{148}
-\indexentry{WMI!Hunting|book{1}}{149}
-
-\indexentry{WMI!MOF Files|book{1}}{150}
-\indexentry{MOF \goto WMI/MOF Files|comment}{150}
-
-\indexentry{mofcomp.exe@\texttt{mofcomp.exe}|book{1}}{150}
-
-\indexentry{WMI!WBEM AutoRecover Folder|book{1}}{152}
-\indexentry{WMI!WBEM AutoRecover Key|book{1}}{154}
+\indexentry{Remediation|book{1}}{27}
+
+\indexentry{Threat Hunting|book{1}}{31}
+\indexentry{Reactive Response|book{1}}{31}
+\indexentry{Proactive Response|book{1}}{31}
+
+\indexentry{Threat Hunting Process|book{1}}{32}
+
+\indexentry{Attack Lifecycle|book{1}}{36}
+
+\indexentry{Cyber Kill Chain (Lockheed Martin)|book{1}}{38}
+
+\indexentry{ATT&CK - Adversarial Tactics, Techniques, and Common Knowledge|book{1}}{43}
+
+\indexentry{Indicators of Compromise (IOC)|book{1}}{48}
+\indexentry{STIX|book{1}}{49}
+\indexentry{YARA|book{1}}{50}
+
+\indexentry{Malware Paradox|book{1}}{53}
+
+\indexentry{Threat Hunting: Compromise Type|book{1}}{55}
+
+\indexentry{Hunting Evil: Automated to Manual|book{1}}{56}
+
+\indexentry{Detecting Compromised Endpoints with Active Malware|book{1}}{58-59}
+
+\indexentry{Adversary Hiding in Plain Sight|book{1}}{61}
+\indexentry{Common Malware Names|book{1}}{61}
+\indexentry{Common Malware Locations|book{1}}{61}
+
+\indexentry{Trusted Code Signing|book{1}}{63}
+
+\indexentry{Malware - Signed?|book{1}}{65}
+
+\indexentry{Malware Persistence Mechanisms|book{1}}{69}
+\indexentry{Autostart|book{1}}{70}
+\indexentry{Windows Services|book{1}}{72}
+\indexentry{Scheduled Tasks|book{1}}{74}
+\indexentry{DLL Hijacking|book{1}}{75}
+\indexentry{WMI Event Consumer Backdoors|book{1}}{78}
+
+\indexentry{Hunting Notes: DLL Hijacking|book{1}}{77}
+
+\indexentry{Hunting Notes: WMI Persistence|book{1}}{82}
+
+\indexentry{autorunsc.exe: Detecting Malware Persistence Mechanisms|book{1}}{84}
+
+\indexentry{Rapid-Response Tooling Solutions|book{1}}{91}
+
+\indexentry{Powershell Basics|book{1}}{94}
+
+\indexentry{Powershell Remoting|book{1}}{96}
+
+\indexentry{Powershell Authentication|book{1}}{98}
+
+\indexentry{Kansa: PowerShell Framework|book{1}}{99}
+\indexentry{modules.conf|book{1}}{101}
+\indexentry{Running Kansa|book{1}}{103}
+\indexentry{Third Party Tools|book{1}}{105}
+\indexentry{Distributed Kansa|book{1}}{106}
+
+\indexentry{KAPE|book{1}}{108}
+\indexentry{Target Collection|book{1}}{109}
+
+\indexentry{Velociraptor|book{1}}{111}
+\indexentry{Artifacts|book{1}}{113}
+\indexentry{Hunting|book{1}}{114}
+\indexentry{Data Analysis|book{1}}{115}
+\indexentry{VQL Data Transformations|book{1}}{116}
+
+\indexentry{Lateral Movement|book{1}}{122}
+\indexentry{Lateral Movement!Credential Harvesting|book{1}}{123}
+\indexentry{Lateral Movement!Evolution of Credential Attack Mitigation|book{1}}{125}
+\indexentry{Lateral Movement!Compromising Credentials: Hashes|book{1}}{127}
+\indexentry{Lateral Movement!Credential Availability|book{1}}{129}
+\indexentry{Lateral Movement!Hash Dumping (Gsecdump)|book{1}}{130}
+\indexentry{Lateral Movement!Pass the Hash (Mimikatz)|book{1}}{132}
+\indexentry{Lateral Movement!Defending Credentials: Hashes|book{1}}{134}
+\indexentry{Lateral Movement!Compromised Credentials: Tokens|book{1}}{136}
+\indexentry{Lateral Movement!Token Stealing (Mimikatz)|book{1}}{137}
+\indexentry{Lateral Movement!Defending Credentials: Tokens|book{1}}{139}
+\indexentry{Lateral Movement!Compromising Credentials: Cached Creds|book{1}}{141}
+\indexentry{Lateral Movement!Creddump|book{1}}{142}
+\indexentry{Lateral Movement!Defending Credentials: Cached Creds|book{1}}{144}
+\indexentry{Lateral Movement!Compromising Credentials: LSA Secrets|book{1}}{145}
+\indexentry{Lateral Movement!Decrypting LSA Secrets (Nishang)|book{1}}{145}
+\indexentry{Lateral Movement!Defending Credentials: LSA Secrets|book{1}}{147}
+\indexentry{Lateral Movement!Compromising Credentials: Tickets|book{1}}{148}
+\indexentry{Lateral Movement!Pass the Ticket (Mimikatz)|book{1}}{149}
+\indexentry{Lateral Movement!Kerberos Attacks|book{1}}{151}
+\indexentry{Lateral Movement!Defending Credentials: Tickets|book{1}}{153}
+\indexentry{Lateral Movement!Kerberos Attack Mitigations|book{1}}{155}
+\indexentry{Lateral Movement!Compromising Credentials: NTDS.DIT|book{1}}{156}
+\indexentry{Lateral Movement!Finding a Path to Domain Admin: Bloodhound|book{1}}{157}
+
+
 
 % \comment{********************************************************************************************
 %                                       SECOND BOOK SECTION
 % *****************************************************************************************************}
 
-\indexentry{Lateral Movement!Overview|book{2}}{5}
+\indexentry{Prefetch|book{2}}{6}
+\indexentry{Prefetch!First/Last Execution|book{2}}{8}
+\indexentry{Prefetch!PECmd.exe|book{2}}{9}
+
+\indexentry{ShimCache|book{2}}{14}
+
+\indexentry{AppCompatCache Execution History|book{2}}{14}
+\indexentry{Amcache.hve|book{2}}{17}
+\indexentry{Amcache.hve!Auditing Executable Presence|book{2}}{19}
+\indexentry{Amcache.hve!Auditing Installed Drivers|book{2}}{21}
+\indexentry{Amcache.hve!AmcacheParser|book{2}}{23}
+
+\indexentry{appcompatprocessor.py|book{2}}{28}
+
+\indexentry{Event Logs|book{2}}{38}
+\indexentry{Event Logs!Types|book{2}}{40}
+\indexentry{Event Logs!Security|book{2}}{41}
+\indexentry{Event Logs!Security Event Categories|book{2}}{42}
+
+\indexentry{Tracking Account Usage|book{2}}{46}
+\indexentry{Tracking Account Usage!Events IDs|book{2}}{46}
+\indexentry{Tracking Account Usage!Logon Type Codes|book{2}}{50}
+\indexentry{Tracking Account Usage!Identifying Logon Sessions|book{2}}{52}
+\indexentry{Tracking Account Usage!Brute Force Password Attack|book{2}}{54}
+\indexentry{Tracking Account Usage!Built-In Accounts|book{2}}{56}
+\indexentry{Tracking Account Usage!Administrator Account Activity|book{2}}{58}
+\indexentry{Tracking Account Usage!Auditing Account Creation|book{2}}{60}
+\indexentry{Tracking Account Usage!Remote Desktop Protocol|book{2}}{62}
+\indexentry{Tracking Account Usage!Remote Desktop Logging|book{2}}{67}
+\indexentry{Tracking Account Usage!Account Logon Events|book{2}}{69}
+\indexentry{Tracking Account Usage!Logon Error Codes|book{2}}{70}
+\indexentry{Tracking Account Usage!Privileged Local Account Abuse (Pass the Hash)|book{2}}{72}
+
+
+
+
+
+
+
+
+
+
 
 \indexentry{Credential!Harvesting|book{2}}{6}
 \indexentry{Local Admin (Limitations)|book{2}}{6-7}
